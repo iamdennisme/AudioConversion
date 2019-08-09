@@ -1,0 +1,2 @@
+include ':app', ':m4aencoder'
+rootProject.name='AudioConversion'
